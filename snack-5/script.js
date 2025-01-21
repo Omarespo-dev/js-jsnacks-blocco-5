@@ -29,3 +29,10 @@ console.log(numeriPari)
 // }
 
 // console.log(numeriPari)
+
+
+
+// QUANDO DEVO PRENDERE ALCUNI ELEMENTI SI USA IL FILTER MA SI USA LA CONDIZIONE
+
+
+

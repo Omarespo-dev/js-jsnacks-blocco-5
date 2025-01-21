@@ -51,3 +51,8 @@ const altreZucchine = zucchine.filter(function (zucchineRestanti){
 })
 
 console.log(altreZucchine)
+
+
+
+
+// QUANDO DEVO PRENDERE ALCUNI ELEMENTI SI USA IL FILTER MA SI USA LA CONDIZIONE

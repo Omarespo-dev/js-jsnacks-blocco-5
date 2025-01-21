@@ -24,7 +24,7 @@ const students = [
 
 // IN QUESTO CASO USO POTREI USARE FIND
 const trovaClasse = students.find(function(classe){
-  return classe.id === 1
+  return classe.name === 'Marco Lanci'
   
 })
 console.log(trovaClasse.class)
