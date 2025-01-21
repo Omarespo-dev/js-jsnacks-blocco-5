@@ -21,3 +21,23 @@ const students = [
 
 // Recupera la classe dello studente 'Marco Lanci'
 // Risultato: '3C'
+
+// IN QUESTO CASO USO POTREI USARE FIND
+const trovaClasse = students.find(function(classe){
+  return classe.id === 1
+  
+})
+console.log(trovaClasse.class)
+
+
+
+
+
+// VERSIONE CICLO FOR 
+// for(let i = 0; i < students.length; i++){
+//   // variabile iesima
+//   let classe= students[i]
+//   if(classe.id === 1){
+//     console.log(classe.class)
+//   }
+// }
